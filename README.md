@@ -19,9 +19,9 @@
 
 ## Projects
 
-- [Project 1][(https://github.com/imridd/Tasky-task-management-backend)] - Task Management backend with basic CRUD operations.
-- [Project 2][(https://github.com/imridd/SlitherSprint)] -Classic Snake game using Java Swing
-- [Project 3](https://github.com/imridd/Guessing-game-in-Java) - Number Guessing Game.
+- [Tasky][(https://github.com/imridd/Tasky-task-management-backend)] - Task Management backend with basic CRUD operations.
+- [SlitherSprint][(https://github.com/imridd/SlitherSprint)] -Classic Snake game using Java Swing
+- [Guessing Game](https://github.com/imridd/Guessing-game-in-Java) - Number Guessing Game.
 
 ## Connect with Me
 
